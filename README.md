@@ -1,94 +1,121 @@
-# Hi 👋, I'm Roshan Afaz
+<h1 align="center">Hi 👋, I'm Roshan Afaz</h1>
+<h3 align="center">Student • Information Technology • Full Stack Developer</h3>
 
-### 🚀 About Me
-
-* 🎓 B.Tech Information Technology student at Kongu Engineering College
-* 💻 Passionate Full Stack Developer
-* 🌱 Currently learning React, Flask, Machine Learning, and System Design
-* 🔭 Working on projects like Smart Parking Assistance System (ParkEasy)
-* 🎯 Goal: To build impactful real-world applications and get placed in a top tech company
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RoshanAfaz&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### 🛠 Tech Stack
-
-#### Frontend
-
-* HTML
-* CSS
-* JavaScript
-* React.js
-* Bootstrap
-
-#### Backend
-
-* Flask
-* Node.js
-* Express.js
-
-#### Database
-
-* MySQL
-* MongoDB
-
-#### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Postman
-
-#### Languages
-
-* Python
-* Java
-* C++
-* SQL
+## 🚀 About Me
+- 🎓 Pursuing **Bachelor of Information Technology** at **Kongu Engineering College**
+- 📊 Current CGPA: **7.24**
+- 💻 Passionate about **Full Stack Development, DBMS, and UI Design**
+- 🌱 Exploring **MERN Stack, Flask, GIS, AI, and Automation**
+- ⚡ Building real-world applications with scalable architecture
+- 🎯 Goal: To innovate and contribute to impactful tech solutions
 
 ---
 
-### 📌 Featured Projects
+## 🛠 Tech Stack
 
-#### 🚗 ParkEasy (Smart Parking Assistance System)
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-A smart parking platform with real-time slot booking, admin dashboard, and Google Maps integration.
+### 🌐 Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-#### 🌾 FarmLink
+### 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Connecting farmers directly with customers without intermediaries.
-
-#### 📰 Smart Digital Notice Board with Fake News Detection
-
-An AI-powered notice board that detects fake news before publishing.
-
-#### 🎥 AI Video Dubbing Web App
-
-Converts English videos into regional Indian languages using AI.
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+### 🤖 Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
-### 🔥 Streak Stats
+## 📌 Projects
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=radical)
+### 🚛 Fleet Management System
+A premium MERN Stack logistics platform for managing fleets, trip sheets, driver salary calculations, maintenance logs, EMI tracking, and PDF invoice generation.
 
----
-
-### 🌐 Connect With Me
-
-* LinkedIn: your-linkedin-url
-* Portfolio: your-portfolio-url
-* Email: [your-email@example.com](mailto:your-email@example.com)
+🔗 Live: https://ams-transports.vercel.app  
+🔗 Repo: https://github.com/RoshanAfaz/AmsTransports
 
 ---
 
-### ⚡ Fun Fact
+### 🎓 Student Management System
+A MERN Stack application for managing student records, attendance, and academic data with a clean UI.
 
-"I turn coffee ☕ into code and bugs 🐞 into features."
+🔗 Live: https://achieversacademy.vercel.app  
+🔗 Repo: https://github.com/RoshanAfaz/StudentManagementSystem
+
+---
+
+### 📨 RequestHub
+An internal organizational request and approval system with **Socket.io real-time notifications** and **n8n workflow automation**.
+
+🔗 Repo: https://github.com/RoshanAfaz/RequestHub
+
+---
+
+### 🌍 GIS ChatBot (SpatialSense)
+A geospatial intelligence platform for advanced spatial analysis, predictive risk forecasting, and AI-powered natural language querying.
+
+🔗 Repo: https://github.com/RoshanAfaz/GIS-ChatBot
+
+---
+
+## 📜 Certifications
+🏅 Oracle Apex Cloud Developer  
+🏅 Oracle SE17
+
+---
+
+## 🌍 Languages
+- English 🇬🇧
+- Tamil 🇮🇳
+- Urdu 🇵🇰
+- Hindi 🇮🇳
+- Arabic 🇸🇦
+
+---
+
+## 📑 Papers Presented
+📌 Mechnotron 2024 - Coimbatore Institute of Technology  
+📌 Mequest 2024 - Ramakrishna Engineering College
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RoshanAfaz&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanAfaz&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=RoshanAfaz&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+📧 Email: afazfairoze@gmail.com  
+💼 LinkedIn: (Add your LinkedIn here)  
+🌍 Portfolio: (Add your Portfolio here)  
+🐙 GitHub: https://github.com/RoshanAfaz
+
+---
+
+### ⚡ Motto
+*"Code. Build. Break. Learn. Repeat."*
