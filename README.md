@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:e94560,50:0f3460,75:e94560,100:1a1a2e&height=260&section=header&text=ROSHAN%20AFAZ&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🏎️%20Full%20Stack%20Developer%20%7C%20Engineering%20Speed%20Into%20Code&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+%7C+Flask+%7C+GIS+%7C+AI;Building+Scalable+Real-World+Apps;Turning+Ideas+Into+Impact" alt="Typing SVG" />
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=RoshanAfaz&label=LAP%20COUNT%20(Profile%20Views)&color=e94560&style=for-the-badge" alt="profile views" />
@@ -70,25 +69,63 @@ Mission:        Innovate → Build → Ship Impactful Tech 🎯
 
 </div>
 
+![Speed Line](https://capsule-render.vercel.app/api?type=rect&color=e94560&height=3&width=100%)
+
+## 🏁 The Garage — Featured Projects
+
 <div align="center">
 
 <a href="https://github.com/RoshanAfaz/AmsTransports">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=AmsTransports&theme=tokyonight&hide_border=true" />
 </a>
-
 <a href="https://github.com/RoshanAfaz/StudentManagementSystem">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=StudentManagementSystem&theme=tokyonight&hide_border=true" />
 </a>
-
 <a href="https://github.com/RoshanAfaz/RequestHub">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=RequestHub&theme=tokyonight&hide_border=true" />
 </a>
-
 <a href="https://github.com/RoshanAfaz/GIS-ChatBot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=GIS-ChatBot&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
+
+### 🚛 Fleet Management System — *The Heavy Hauler*
+A premium **MERN Stack** logistics platform for managing fleets, trip sheets, driver salary calculations, maintenance logs, EMI tracking, and PDF invoice generation.
+
+`MongoDB` `Express` `React` `Node.js` `PDFKit`
+
+🔗 [Live Demo](https://ams-transports.vercel.app) &nbsp;|&nbsp; 📂 [Repository](https://github.com/RoshanAfaz/AmsTransports)
+
+---
+
+### 🎓 Student Management System — *The Cruise Control*
+A **MERN Stack** application for managing student records, attendance, and academic data with a clean, intuitive UI.
+
+`MongoDB` `Express` `React` `Node.js`
+
+🔗 [Live Demo](https://achieversacademy.vercel.app) &nbsp;|&nbsp; 📂 [Repository](https://github.com/RoshanAfaz/StudentManagementSystem)
+
+---
+
+### 📨 RequestHub — *The Turbocharger*
+An internal organizational request and approval system with **Socket.io real-time notifications** and **n8n workflow automation**.
+
+`Socket.io` `n8n` `MERN Stack` `Real-time`
+
+🔗 [Live Demo](https://requesthubb.vercel.app) &nbsp;|&nbsp; 📂 [Repository](https://github.com/RoshanAfaz/RequestHub)
+
+---
+
+### 🌍 GIS ChatBot (SpatialSense) — *The Navigation System*
+A geospatial intelligence platform for advanced spatial analysis, predictive risk forecasting, and AI-powered natural language querying.
+
+`GIS` `AI/NLP` `Predictive Analytics` `Python`
+
+📂 [Repository](https://github.com/RoshanAfaz/GIS-ChatBot)
+
+![Speed Line](https://capsule-render.vercel.app/api?type=rect&color=0f3460&height=3&width=100%)
+
 ## 🏆 Trophy Case — Certifications
 
 <div align="center">
