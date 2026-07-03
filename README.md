@@ -1,46 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Roshan%20Afaz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20IT%20Student%20%7C%20Automation%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:e94560,50:0f3460,75:e94560,100:1a1a2e&height=260&section=header&text=ROSHAN%20AFAZ&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🏎️%20Full%20Stack%20Developer%20%7C%20Engineering%20Speed%20Into%20Code&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+%7C+Flask+%7C+GIS+%7C+AI;Building+Scalable+Real-World+Apps;Turning+Ideas+Into+Impact+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=700&color=E94560&center=true&vCenter=true&width=750&lines=🏁+Starting+the+Engine...;⚡+MERN+Stack+%7C+Flask+%7C+GIS+%7C+AI;🔥+Full+Throttle+Full+Stack+Dev;🏎️+Zero+to+Deployed+in+Record+Time" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=RoshanAfaz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/RoshanAfaz?label=Followers&style=for-the-badge&color=6a11cb" alt="followers" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=RoshanAfaz&label=LAP%20COUNT%20(Profile%20Views)&color=e94560&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/RoshanAfaz?label=PIT%20CREW%20(Followers)&style=for-the-badge&color=0f3460&labelColor=1a1a2e" alt="followers" />
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+![Speed Line](https://capsule-render.vercel.app/api?type=rect&color=e94560&height=3&width=100%)
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/mikechambers79/mikechambers79/main/code.gif">
+## 🏎️ Engine Specs — About Me
 
-- 🎓 Pursuing **Bachelor of Information Technology** at **Kongu Engineering College**
-- 📊 Current CGPA: **7.24**
-- 💻 Passionate about **Full Stack Development, DBMS, and UI Design**
-- 🌱 Exploring **MERN Stack, Flask, GIS, AI, and Automation**
-- ⚡ Building real-world applications with scalable architecture
-- 🎯 Goal: To innovate and contribute to impactful tech solutions
-- 📫 Reach me at **afazfairoze@gmail.com**
+<img align="right" alt="Racing GIF" width="380" src="https://raw.githubusercontent.com/mikechambers79/mikechambers79/main/code.gif">
+
+```yaml
+Driver:         Roshan Afaz
+Chassis:        Kongu Engineering College — B.Tech IT
+Horsepower:     CGPA 7.24 🔋
+Fuel Type:      Coffee ☕ + Curiosity
+Top Speed:      Full Stack Development | DBMS | UI Design
+Current Track:  MERN Stack | Flask | GIS | AI | Automation
+Pit Stop:       afazfairoze@gmail.com 📫
+Mission:        Innovate → Build → Ship Impactful Tech 🎯
+```
 
 <br clear="both"/>
 
----
+![Speed Line](https://capsule-render.vercel.app/api?type=rect&color=0f3460&height=3&width=100%)
 
-## 🛠 Tech Stack
+## 🔧 Under the Hood — Tech Stack
 
 <div align="center">
 
-**💻 Programming Languages**
+**🏁 Programming Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**🌐 Frontend & Backend**
+**⚙️ Frontend & Backend Engine**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -49,12 +56,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**🗄 Database**
+**🛞 Fuel Tanks (Databases)**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**🤖 Automation & Tools**
+**🏆 Pit Crew Tools (Automation & Tools)**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
@@ -65,9 +72,9 @@
 
 </div>
 
----
+![Speed Line](https://capsule-render.vercel.app/api?type=rect&color=e94560&height=3&width=100%)
 
-## 📌 Featured Projects
+## 🏁 The Garage — Featured Projects
 
 <div align="center">
 
@@ -86,7 +93,7 @@
 
 </div>
 
-### 🚛 Fleet Management System
+### 🚛 Fleet Management System — *The Heavy Hauler*
 A premium **MERN Stack** logistics platform for managing fleets, trip sheets, driver salary calculations, maintenance logs, EMI tracking, and PDF invoice generation.
 
 `MongoDB` `Express` `React` `Node.js` `PDFKit`
@@ -95,7 +102,7 @@ A premium **MERN Stack** logistics platform for managing fleets, trip sheets, dr
 
 ---
 
-### 🎓 Student Management System
+### 🎓 Student Management System — *The Cruise Control*
 A **MERN Stack** application for managing student records, attendance, and academic data with a clean, intuitive UI.
 
 `MongoDB` `Express` `React` `Node.js`
@@ -104,7 +111,7 @@ A **MERN Stack** application for managing student records, attendance, and acade
 
 ---
 
-### 📨 RequestHub
+### 📨 RequestHub — *The Turbocharger*
 An internal organizational request and approval system with **Socket.io real-time notifications** and **n8n workflow automation**.
 
 `Socket.io` `n8n` `MERN Stack` `Real-time`
@@ -113,16 +120,16 @@ An internal organizational request and approval system with **Socket.io real-tim
 
 ---
 
-### 🌍 GIS ChatBot (SpatialSense)
+### 🌍 GIS ChatBot (SpatialSense) — *The Navigation System*
 A geospatial intelligence platform for advanced spatial analysis, predictive risk forecasting, and AI-powered natural language querying.
 
 `GIS` `AI/NLP` `Predictive Analytics` `Python`
 
 📂 [Repository](https://github.com/RoshanAfaz/GIS-ChatBot)
 
----
+![Speed Line](https://capsule-render.vercel.app/api?type=rect&color=0f3460&height=3&width=100%)
 
-## 📜 Certifications
+## 🏆 Trophy Case — Certifications
 
 <div align="center">
 
@@ -131,53 +138,49 @@ A geospatial intelligence platform for advanced spatial analysis, predictive ris
 
 </div>
 
----
+## 📢 Race Commentary — Papers Presented
 
-## 📑 Papers Presented
+🏁 **Mechnotron 2024** — Coimbatore Institute of Technology
+🏁 **Mequest 2024** — Ramakrishna Engineering College
 
-📌 **Mechnotron 2024** — Coimbatore Institute of Technology
-📌 **Mequest 2024** — Ramakrishna Engineering College
+![Speed Line](https://capsule-render.vercel.app/api?type=rect&color=e94560&height=3&width=100%)
 
----
-
-## 🌍 Languages I Speak
+## 🌍 Multilingual Dashboard Display
 
 <div align="center">
 
-![English](https://img.shields.io/badge/English-🇬🇧-blue?style=flat-square)
-![Tamil](https://img.shields.io/badge/Tamil-🇮🇳-orange?style=flat-square)
-![Urdu](https://img.shields.io/badge/Urdu-🇵🇰-green?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-🇮🇳-yellow?style=flat-square)
-![Arabic](https://img.shields.io/badge/Arabic-🇸🇦-darkgreen?style=flat-square)
+![English](https://img.shields.io/badge/English-🇬🇧-1a1a2e?style=for-the-badge)
+![Tamil](https://img.shields.io/badge/Tamil-🇮🇳-e94560?style=for-the-badge)
+![Urdu](https://img.shields.io/badge/Urdu-🇵🇰-0f3460?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-🇮🇳-e94560?style=for-the-badge)
+![Arabic](https://img.shields.io/badge/Arabic-🇸🇦-1a1a2e?style=for-the-badge)
 
 </div>
 
----
+![Speed Line](https://capsule-render.vercel.app/api?type=rect&color=0f3460&height=3&width=100%)
 
-## 📊 GitHub Stats & Activity
+## 📟 Dashboard — GitHub Stats & Telemetry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RoshanAfaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanAfaz&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RoshanAfaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=e94560&icon_color=e94560" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanAfaz&layout=compact&theme=tokyonight&hide_border=true&title_color=e94560" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanAfaz&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanAfaz&theme=tokyonight&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560" width="48%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoshanAfaz&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoshanAfaz&theme=tokyo-night&hide_border=true&color=e94560&line=e94560&point=ffffff" width="95%"/>
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+## 🥇 Podium Finishes — GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=RoshanAfaz&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
----
+![Speed Line](https://capsule-render.vercel.app/api?type=rect&color=e94560&height=3&width=100%)
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Track (Snake Circuit)
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/RoshanAfaz/RoshanAfaz/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%"/>
@@ -185,9 +188,9 @@ A geospatial intelligence platform for advanced spatial analysis, predictive ris
 
 > ℹ️ To activate the snake animation above, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to this repo — it auto-generates and commits the SVG.
 
----
+![Speed Line](https://capsule-render.vercel.app/api?type=rect&color=0f3460&height=3&width=100%)
 
-## 🌐 Connect With Me
+## 🏎️ Pit Stop — Connect With Me
 
 <div align="center">
 
@@ -200,13 +203,13 @@ A geospatial intelligence platform for advanced spatial analysis, predictive ris
 
 > 💡 **Tip:** Replace the `#` links above with your actual LinkedIn and Portfolio URLs.
 
----
+<br/>
 
 <div align="center">
 
-### ⚡ Motto
-*"Code. Build. Break. Learn. Repeat."*
+### 🏁 Motto
+*"Redline the Code. Cross the Finish Line. Repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f3460,100:e94560&height=140&section=footer" width="100%"/>
 
 </div>
