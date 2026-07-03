@@ -84,36 +84,13 @@ Mission:        Innovate → Build → Ship Impactful Tech
 
 ## 🏁 The Garage — Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/RoshanAfaz/AmsTransports">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=AmsTransports&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</a>
-
-<a href="https://github.com/RoshanAfaz/StudentManagementSystem">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=StudentManagementSystem&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</a>
-
-<br/>
-
-<a href="https://github.com/RoshanAfaz/RequestHub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=RequestHub&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</a>
-
-<a href="https://github.com/RoshanAfaz/GIS-ChatBot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=GIS-ChatBot&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</a>
-
-</div>
-
----
-
 ### 🚛 Fleet Management System — *The Heavy Hauler*
 A premium MERN Stack logistics platform for managing fleets, trip sheets, salary calculations, maintenance logs, EMI tracking, and PDF invoice generation.
 
 `MongoDB` `Express` `React` `Node.js` `PDFKit`
 
-🔗 [Live Demo](https://ams-transports.vercel.app) | 📂 [Repository](https://github.com/RoshanAfaz/AmsTransports)
+🔗 [Live Demo](https://ams-transports.vercel.app)  
+📂 [Repository](https://github.com/RoshanAfaz/AmsTransports)
 
 ---
 
@@ -122,7 +99,8 @@ A MERN Stack application for managing student records, attendance, and academic 
 
 `MongoDB` `Express` `React` `Node.js`
 
-🔗 [Live Demo](https://achieversacademy.vercel.app) | 📂 [Repository](https://github.com/RoshanAfaz/StudentManagementSystem)
+🔗 [Live Demo](https://achieversacademy.vercel.app)  
+📂 [Repository](https://github.com/RoshanAfaz/StudentManagementSystem)
 
 ---
 
@@ -131,7 +109,8 @@ An internal organizational request system with Socket.io real-time notifications
 
 `Socket.io` `n8n` `MERN Stack`
 
-🔗 [Live Demo](https://requesthubb.vercel.app) | 📂 [Repository](https://github.com/RoshanAfaz/RequestHub)
+🔗 [Live Demo](https://requesthubb.vercel.app)  
+📂 [Repository](https://github.com/RoshanAfaz/RequestHub)
 
 ---
 
@@ -160,7 +139,7 @@ Geospatial intelligence platform for spatial analysis and predictive risk foreca
 ## 📢 Race Commentary — Papers Presented
 
 🏁 **Mechnotron 2024** — Coimbatore Institute of Technology  
-🏁 **Mequest 2024** — Ramakrishna Engineering College
+🏁 **Mequest 2024** — Ramakrishna Engineering College  
 
 ---
 
@@ -182,7 +161,7 @@ Geospatial intelligence platform for spatial analysis and predictive risk foreca
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RoshanAfaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RoshanAfaz&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanAfaz&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
