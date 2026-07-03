@@ -69,55 +69,58 @@ Mission:        Innovate → Build → Ship Impactful Tech
 
 ---
 
+---
+
 ## 🏁 The Garage — Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/RoshanAfaz/AmsTransports">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=AmsTransports&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/RoshanAfaz/StudentManagementSystem">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=StudentManagementSystem&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=AmsTransports&theme=radical&hide_border=true"/>
 </a>
 
 <a href="https://github.com/RoshanAfaz/RequestHub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=RequestHub&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=RequestHub&theme=radical&hide_border=true"/>
+</a>
+
+<a href="https://github.com/RoshanAfaz/StudentManagementSystem">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=StudentManagementSystem&theme=radical&hide_border=true"/>
 </a>
 
 <a href="https://github.com/RoshanAfaz/GIS-ChatBot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=GIS-ChatBot&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=GIS-ChatBot&theme=radical&hide_border=true"/>
 </a>
 
 </div>
 
 ### 🚛 Fleet Management System
-Premium MERN logistics platform for managing fleets, trip sheets, salary calculations, maintenance logs, EMI tracking, and PDF invoice generation.
+Premium MERN logistics platform for fleet management, trip sheets, salary calculations, maintenance logs, EMI tracking, and PDF invoice generation.
 
-🔗 Live: https://ams-transports.vercel.app
+🔗 Live: https://ams-transports.vercel.app  
+📂 Repo: https://github.com/RoshanAfaz/AmsTransports
 
 ---
 
 ### 🎓 Student Management System
 A MERN-based platform for managing student records, attendance, and academic activities.
 
-🔗 Live: https://achieversacademy.vercel.app
+🔗 Live: https://achieversacademy.vercel.app  
+📂 Repo: https://github.com/RoshanAfaz/StudentManagementSystem
 
 ---
 
 ### 📨 RequestHub
-An internal request and approval platform powered by Socket.io and n8n workflows.
+Internal request & approval platform powered by Socket.io and n8n workflows.
 
-🔗 Live: https://requesthubb.vercel.app
+🔗 Live: https://requesthubb.vercel.app  
+📂 Repo: https://github.com/RoshanAfaz/RequestHub
 
 ---
 
-### 🌍 GIS ChatBot (SpatialSense)
-A geospatial intelligence platform for spatial analysis and predictive analytics.
+### 🌍 GIS ChatBot
+Spatial intelligence platform for geospatial analysis and predictive analytics.
 
 📂 Repo: https://github.com/RoshanAfaz/GIS-ChatBot
-
----
 
 ## 🏆 Trophy Case — Certifications
 
