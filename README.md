@@ -71,65 +71,46 @@ Mission:        Innovate → Build → Ship Impactful Tech
 
 ---
 
+---
+
 ## 🏁 The Garage — Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/RoshanAfaz/AmsTransports">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=AmsTransports&theme=radical&hide_border=true"/>
-</a>
-
-<a href="https://github.com/RoshanAfaz/RequestHub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=RequestHub&theme=radical&hide_border=true"/>
-</a>
-
-<a href="https://github.com/RoshanAfaz/StudentManagementSystem">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=StudentManagementSystem&theme=radical&hide_border=true"/>
-</a>
-
-<a href="https://github.com/RoshanAfaz/GIS-ChatBot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=GIS-ChatBot&theme=radical&hide_border=true"/>
-</a>
-
-</div>
-
 ### 🚛 Fleet Management System
-Premium MERN logistics platform for fleet management, trip sheets, salary calculations, maintenance logs, EMI tracking, and PDF invoice generation.
+Premium MERN logistics platform for managing fleets, trip sheets, salary calculations, maintenance logs, EMI tracking, and PDF invoice generation.
 
-🔗 Live: https://ams-transports.vercel.app  
-📂 Repo: https://github.com/RoshanAfaz/AmsTransports
+**Tech Stack:** `MongoDB` `Express` `React` `Node.js` `PDFKit`
+
+🔗 **Live Demo:** https://ams-transports.vercel.app  
+📂 **Repository:** https://github.com/RoshanAfaz/AmsTransports
 
 ---
 
 ### 🎓 Student Management System
 A MERN-based platform for managing student records, attendance, and academic activities.
 
-🔗 Live: https://achieversacademy.vercel.app  
-📂 Repo: https://github.com/RoshanAfaz/StudentManagementSystem
+**Tech Stack:** `MongoDB` `Express` `React` `Node.js`
+
+🔗 **Live Demo:** https://achieversacademy.vercel.app  
+📂 **Repository:** https://github.com/RoshanAfaz/StudentManagementSystem
 
 ---
 
 ### 📨 RequestHub
-Internal request & approval platform powered by Socket.io and n8n workflows.
+An internal request and approval system with real-time notifications and workflow automation.
 
-🔗 Live: https://requesthubb.vercel.app  
-📂 Repo: https://github.com/RoshanAfaz/RequestHub
+**Tech Stack:** `Socket.io` `n8n` `MERN Stack`
+
+🔗 **Live Demo:** https://requesthubb.vercel.app  
+📂 **Repository:** https://github.com/RoshanAfaz/RequestHub
 
 ---
 
-### 🌍 GIS ChatBot
-Spatial intelligence platform for geospatial analysis and predictive analytics.
+### 🌍 GIS ChatBot (SpatialSense)
+A geospatial intelligence platform for advanced spatial analysis, predictive forecasting, and natural language spatial querying.
 
-📂 Repo: https://github.com/RoshanAfaz/GIS-ChatBot
+**Tech Stack:** `GIS` `AI/NLP` `Python`
 
-## 🏆 Trophy Case — Certifications
-
-<div align="center">
-
-![Oracle Apex](https://img.shields.io/badge/Oracle%20Apex%20Cloud%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle SE17](https://img.shields.io/badge/Oracle%20SE17-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
+📂 **Repository:** https://github.com/RoshanAfaz/GIS-ChatBot
 
 ---
 
