@@ -60,7 +60,7 @@ A MERN Stack application for managing student records, attendance, and academic 
 ### 📨 RequestHub
 An internal organizational request and approval system with **Socket.io real-time notifications** and **n8n workflow automation**.
 
-🔗 Live: https://requesthubb.vercel.app
+🔗 Live: https://requesthubb.vercel.app <br>
 🔗 Repo: https://github.com/RoshanAfaz/RequestHub
 
 ---
