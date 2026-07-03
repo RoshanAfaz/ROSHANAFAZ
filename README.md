@@ -70,63 +70,25 @@ Mission:        Innovate → Build → Ship Impactful Tech 🎯
 
 </div>
 
-![Speed Line](https://capsule-render.vercel.app/api?type=rect&color=e94560&height=3&width=100%)
-
-## 🏁 The Garage — Featured Projects
-
 <div align="center">
 
 <a href="https://github.com/RoshanAfaz/AmsTransports">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=AmsTransports&theme=tokyonight&hide_border=true" />
 </a>
+
 <a href="https://github.com/RoshanAfaz/StudentManagementSystem">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=StudentManagementSystem&theme=tokyonight&hide_border=true" />
 </a>
+
 <a href="https://github.com/RoshanAfaz/RequestHub">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=RequestHub&theme=tokyonight&hide_border=true" />
 </a>
+
 <a href="https://github.com/RoshanAfaz/GIS-ChatBot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoshanAfaz&repo=GIS-ChatBot&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
-
-### 🚛 Fleet Management System — *The Heavy Hauler*
-A premium **MERN Stack** logistics platform for managing fleets, trip sheets, driver salary calculations, maintenance logs, EMI tracking, and PDF invoice generation.
-
-`MongoDB` `Express` `React` `Node.js` `PDFKit`
-
-🔗 [Live Demo](https://ams-transports.vercel.app) &nbsp;|&nbsp; 📂 [Repository](https://github.com/RoshanAfaz/AmsTransports)
-
----
-
-### 🎓 Student Management System — *The Cruise Control*
-A **MERN Stack** application for managing student records, attendance, and academic data with a clean, intuitive UI.
-
-`MongoDB` `Express` `React` `Node.js`
-
-🔗 [Live Demo](https://achieversacademy.vercel.app) &nbsp;|&nbsp; 📂 [Repository](https://github.com/RoshanAfaz/StudentManagementSystem)
-
----
-
-### 📨 RequestHub — *The Turbocharger*
-An internal organizational request and approval system with **Socket.io real-time notifications** and **n8n workflow automation**.
-
-`Socket.io` `n8n` `MERN Stack` `Real-time`
-
-🔗 [Live Demo](https://requesthubb.vercel.app) &nbsp;|&nbsp; 📂 [Repository](https://github.com/RoshanAfaz/RequestHub)
-
----
-
-### 🌍 GIS ChatBot (SpatialSense) — *The Navigation System*
-A geospatial intelligence platform for advanced spatial analysis, predictive risk forecasting, and AI-powered natural language querying.
-
-`GIS` `AI/NLP` `Predictive Analytics` `Python`
-
-📂 [Repository](https://github.com/RoshanAfaz/GIS-ChatBot)
-
-![Speed Line](https://capsule-render.vercel.app/api?type=rect&color=0f3460&height=3&width=100%)
-
 ## 🏆 Trophy Case — Certifications
 
 <div align="center">
