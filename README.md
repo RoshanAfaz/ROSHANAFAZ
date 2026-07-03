@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:e94560,50:0f3460,75:e94560,100:1a1a2e&height=260&section=header&text=ROSHAN%20AFAZ&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🏎️%20Full%20Stack%20Developer%20%7C%20Engineering%20Speed%20Into%20Code&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=700&color=E94560&center=true&vCenter=true&width=750&lines=🏁+Starting+the+Engine...;⚡+MERN+Stack+%7C+Flask+%7C+GIS+%7C+AI;🔥+Full+Throttle+Full+Stack+Dev;🏎️+Zero+to+Deployed+in+Record+Time" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+%7C+Flask+%7C+GIS+%7C+AI;Building+Scalable+Real-World+Apps;Turning+Ideas+Into+Impact" alt="Typing SVG" />
 
 <br/>
 
