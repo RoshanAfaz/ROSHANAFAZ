@@ -67,7 +67,7 @@ Mission:        Innovate → Build → Ship Impactful Tech
 
 <br/>
 
-### 🏆 Pit Crew Tools (Automation & Tools)
+### 🏆 Pit Crew Tools
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
@@ -85,9 +85,7 @@ Mission:        Innovate → Build → Ship Impactful Tech
 ## 🏁 The Garage — Featured Projects
 
 ### 🚛 Fleet Management System — *The Heavy Hauler*
-A premium MERN Stack logistics platform for managing fleets, trip sheets, salary calculations, maintenance logs, EMI tracking, and PDF invoice generation.
-
-`MongoDB` `Express` `React` `Node.js` `PDFKit`
+A premium MERN Stack logistics platform.
 
 🔗 [Live Demo](https://ams-transports.vercel.app)  
 📂 [Repository](https://github.com/RoshanAfaz/AmsTransports)
@@ -95,9 +93,7 @@ A premium MERN Stack logistics platform for managing fleets, trip sheets, salary
 ---
 
 ### 🎓 Student Management System — *The Cruise Control*
-A MERN Stack application for managing student records, attendance, and academic data.
-
-`MongoDB` `Express` `React` `Node.js`
+A MERN Stack app for student records and attendance.
 
 🔗 [Live Demo](https://achieversacademy.vercel.app)  
 📂 [Repository](https://github.com/RoshanAfaz/StudentManagementSystem)
@@ -105,9 +101,7 @@ A MERN Stack application for managing student records, attendance, and academic 
 ---
 
 ### 📨 RequestHub — *The Turbocharger*
-An internal organizational request system with Socket.io real-time notifications and n8n workflow automation.
-
-`Socket.io` `n8n` `MERN Stack`
+Internal organizational request system with automation.
 
 🔗 [Live Demo](https://requesthubb.vercel.app)  
 📂 [Repository](https://github.com/RoshanAfaz/RequestHub)
@@ -115,9 +109,7 @@ An internal organizational request system with Socket.io real-time notifications
 ---
 
 ### 🌍 GIS ChatBot — *The Navigation System*
-Geospatial intelligence platform for spatial analysis and predictive risk forecasting.
-
-`GIS` `AI/NLP` `Python`
+Spatial intelligence and predictive analytics.
 
 📂 [Repository](https://github.com/RoshanAfaz/GIS-ChatBot)
 
@@ -125,39 +117,27 @@ Geospatial intelligence platform for spatial analysis and predictive risk foreca
 
 ![Speed Line](https://capsule-render.vercel.app/api?type=rect&color=0f3460&height=3&width=100%)
 
-## 🏆 Trophy Case — Certifications
+## 🏆 Podium Finishes — GitHub Trophies
 
 <div align="center">
 
-![Oracle Apex](https://img.shields.io/badge/Oracle%20Apex%20Cloud%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle SE17](https://img.shields.io/badge/Oracle%20SE17-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=RoshanAfaz&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
 
 </div>
 
 ---
 
-## 📢 Race Commentary — Papers Presented
-
-🏁 **Mechnotron 2024** — Coimbatore Institute of Technology  
-🏁 **Mequest 2024** — Ramakrishna Engineering College  
-
----
-
-## 🌍 Multilingual Dashboard Display
+## 🐍 Contribution Track (Snake Circuit)
 
 <div align="center">
 
-![English](https://img.shields.io/badge/English-🇬🇧-1a1a2e?style=for-the-badge)
-![Tamil](https://img.shields.io/badge/Tamil-🇮🇳-e94560?style=for-the-badge)
-![Urdu](https://img.shields.io/badge/Urdu-🇵🇰-0f3460?style=for-the-badge)
-![Hindi](https://img.shields.io/badge/Hindi-🇮🇳-e94560?style=for-the-badge)
-![Arabic](https://img.shields.io/badge/Arabic-🇸🇦-1a1a2e?style=for-the-badge)
+<img src="https://raw.githubusercontent.com/RoshanAfaz/ROSHANAFAZ/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%"/>
 
 </div>
 
 ---
 
-## 📟 Dashboard — GitHub Stats & Telemetry
+## 📟 Dashboard — GitHub Stats
 
 <div align="center">
 
@@ -177,39 +157,14 @@ Geospatial intelligence platform for spatial analysis and predictive risk foreca
 
 ---
 
-## 🥇 Podium Finishes — GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RoshanAfaz&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-## 🐍 Contribution Track (Snake Circuit)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RoshanAfaz/ROSHANAFAZ/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%"/>
-
-</div>
-
----
-
 ## 🏎️ Pit Stop — Connect With Me
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afazfairoze@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoshanAfaz)
-
-</div>
+<p align="center">
+<a href="mailto:afazfairoze@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/RoshanAfaz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
