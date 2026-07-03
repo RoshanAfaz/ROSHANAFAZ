@@ -17,7 +17,7 @@
 
 ## 🏎️ Engine Specs — About Me
 
-<img align="right" alt="Racing GIF" width="380" src="https://raw.githubusercontent.com/mikechambers79/mikechambers79/main/code.gif">
+<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/mikechambers79/mikechambers79/main/code.gif">
 
 ```yaml
 Driver:         Roshan Afaz
@@ -47,8 +47,6 @@ Mission:        Innovate → Build → Ship Impactful Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<br/>
-
 ### ⚙️ Frontend & Backend Engine
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -58,14 +56,10 @@ Mission:        Innovate → Build → Ship Impactful Tech
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<br/>
-
-### 🛞 Fuel Tanks (Databases)
+### 🛞 Fuel Tanks
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br/>
 
 ### 🏆 Pit Crew Tools
 
@@ -73,7 +67,7 @@ Mission:        Innovate → Build → Ship Impactful Tech
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
@@ -93,7 +87,7 @@ A premium MERN Stack logistics platform.
 ---
 
 ### 🎓 Student Management System — *The Cruise Control*
-A MERN Stack app for student records and attendance.
+A MERN Stack application for student records.
 
 🔗 [Live Demo](https://achieversacademy.vercel.app)  
 📂 [Repository](https://github.com/RoshanAfaz/StudentManagementSystem)
@@ -101,7 +95,7 @@ A MERN Stack app for student records and attendance.
 ---
 
 ### 📨 RequestHub — *The Turbocharger*
-Internal organizational request system with automation.
+Internal request system with automation.
 
 🔗 [Live Demo](https://requesthubb.vercel.app)  
 📂 [Repository](https://github.com/RoshanAfaz/RequestHub)
@@ -121,7 +115,7 @@ Spatial intelligence and predictive analytics.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RoshanAfaz&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=RoshanAfaz&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -131,27 +125,39 @@ Spatial intelligence and predictive analytics.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RoshanAfaz/ROSHANAFAZ/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%"/>
+<img src="https://raw.githubusercontent.com/RoshanAfaz/ROSHANAFAZ/output/github-contribution-grid-snake.svg?cache=1" width="90%"/>
 
 </div>
 
 ---
 
-## 📟 Dashboard — GitHub Stats
+![Speed Line](https://capsule-render.vercel.app/api?type=rect&color=e94560&height=3&width=100%)
+
+## 📊 Dashboard — GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RoshanAfaz&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoshanAfaz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanAfaz&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanAfaz&theme=tokyonight&hide_border=true" width="48%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanAfaz&layout=compact&langs_count=8&theme=radical"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoshanAfaz&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanAfaz&theme=radical"/>
+
+</div>
+
+---
+
+## 🌍 Multilingual Dashboard
+
+<div align="center">
+
+![English](https://img.shields.io/badge/English-🇬🇧-1a1a2e?style=for-the-badge)
+![Tamil](https://img.shields.io/badge/Tamil-🇮🇳-e94560?style=for-the-badge)
+![Urdu](https://img.shields.io/badge/Urdu-🇵🇰-0f3460?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-🇮🇳-e94560?style=for-the-badge)
+![Arabic](https://img.shields.io/badge/Arabic-🇸🇦-1a1a2e?style=for-the-badge)
 
 </div>
 
@@ -161,8 +167,8 @@ Spatial intelligence and predictive analytics.
 
 <p align="center">
 <a href="mailto:afazfairoze@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/roshan-afaz-b2996631b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://roshanafazportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/RoshanAfaz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
