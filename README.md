@@ -151,13 +151,14 @@ A geospatial intelligence platform for advanced spatial analysis, predictive for
 
 ---
 
-## 🏆 Podium Finishes — GitHub Trophies
+## 🏆 Podium Finishes — Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RoshanAfaz&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/RoshanAfaz?style=for-the-badge&color=e94560" />
+  <img src="https://img.shields.io/github/stars/RoshanAfaz?style=for-the-badge&color=0f3460" />
+  <img src="https://img.shields.io/github/commit-activity/m/RoshanAfaz/ROSHANAFAZ?style=for-the-badge&color=6a11cb" />
+  <img src="https://img.shields.io/github/last-commit/RoshanAfaz/ROSHANAFAZ?style=for-the-badge&color=ff4d6d" />
+</p>
 
 ---
 
